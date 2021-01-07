@@ -1,0 +1,2 @@
+# crash
+Creación de shell 
